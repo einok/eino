@@ -1,17 +1,7 @@
-# Main
+# Main Page
 
-## none
-- none
-- none
-- none
-## none
-- none
-- none
-- none
-## none
-- none
-- none
-- none
+ただの備忘録
+Java、Python、Minecraftとか。
 
 ---
 (C)2017 ein0
